@@ -1,0 +1,27 @@
+.images{
+    margin-top: 60px;
+    width: 15%;
+    height: 17%;
+    margin: 2%;
+    border: 1px black solid;
+}
+
+.page{
+}
+
+.search-bar{
+    width: 20%;
+}
+
+.form{
+    text-align: center;
+    margin-top: 20px;
+    
+}
+
+.search-button{
+    border-radius: 0px;
+    margin-left: 2%;
+    margin-top: 8px;
+    width: 8%;
+}
